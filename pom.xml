@@ -5,6 +5,11 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>discovery-service</module>
+		<module>slow-service</module>
+		<module>greeting-service</module>
+		<module>front-service</module>
+		<module>cloud-common</module>
+		<module>product</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
